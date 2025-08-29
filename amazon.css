@@ -136,7 +136,7 @@ color: white;
 /* hero section */
 .hero-section{
    height: 340px;
-   background-image: url(./photos/1.jpg);
+   background-image: url(/1.jpg);
    background-size: cover;
    display: flex;
    justify-content: center;
@@ -260,4 +260,5 @@ a{
    text-align: center;
    padding-top: 6px;
 }
+
 
