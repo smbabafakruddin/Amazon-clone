@@ -24,7 +24,7 @@
 }
 
 .logo {
-   background-image: url("./photos/download.png");
+   background-image: url("/download.png");
    background-size: cover;
    height: 50px;
 }
@@ -260,3 +260,4 @@ a{
    text-align: center;
    padding-top: 6px;
 }
+
